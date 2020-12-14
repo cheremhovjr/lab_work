@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Skate4You</title>
+    <link rel="stylesheet" href="style.css"> </head>
+
+<body>
+    <div class="conteiner">
+        <header>
+            <ul class="menu">
+                <li class="activePage"><a href="index.html">√Ћј¬Ќјя</a></li>
+                <li><a href="catalog.html"> ј“јЋќ√</a></li>
+                <li><a href="aboutus.html">ќ Ќј—</a></li>
+				<li><a href="contacts.html"> ќЌ“ј “џ</a></li>
+                <li><a href="delivery.html">ƒќ—“ј¬ ј</a></li>
+                <li><a href="order.html">ќ‘ќ–ћЋ≈Ќ»≈ «ј ј«ј</a></li>
+            </ul>
+        </header>
+        <div class="contentFooter">
+            <div class="content">
+                <h1>»нтренет-скейтшоп Skate4You</h1>
+                <h2>—кейтбординг дл€ всех. Skate4You</h2>
+<p>»нтернет-магазин Ђ—кейт фор юї создан в 2019 году.
+ћы развиваем скейтбординг в –оссии и занимаемс€ его продвижением как
+спортивной дисциплины в Ђмассыї.</p>
+<p>ћы помогаем с финансированием большого количества спортивных соревнований, а также спонсируем начинающих спортсменов.</p>
+<p>Ќаш интернет-магазин предлагает ¬ам все нужные детали, инструменты и все, что св€зано со скейтбордингом по самым низким ценам.</p>
+
+                    <h2 class="new">ѕопул€рные товары</h2>
+                    <div class="productThree">
+                        <div class="product">
+                            <a href="products/union_sk.html"><img src="image/юнион.jpg" alt=""></a> <a href="products/union_sk.html"><h3> омплект скейтборда ёЌ»ќЌ</h3></a>
+                            <p>&#8381 6280</p>
+                        </div>
+                        <div class="product">
+                            <a href="products/seven_sk.html"><img src="image/seven.jpg" alt=""></a> <a href="products/seven_sk.html"><h3> омплект скейтборда SEVEN</h3></a>
+                            <p>&#8381 4550</p>
+                        </div>
+                        <div class="product">
+                            <a href="products/footwork_sk.html"><img src="image/footwork.jpg" alt=""></a> <a href="products/footwork_sk.html"><h3> омплект скетйтборда FOOTWORK</h3></a>
+                            <p>&#8381 5950</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer>
+                <p> &copy ¬се права защищены</p>
+            </footer>
+        </div>
+    </div>
+</body>
+
+</html>
